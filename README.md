@@ -6,5 +6,3 @@ Features:
 - Futuristic Dock, and
 - Windows 10/11 come ACTIVATED!
 =========================================
-
-
